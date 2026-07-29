@@ -9,3 +9,4 @@ certifi
 charset-normalizer
 selectolax
 pytz
+httpx
