@@ -10,3 +10,4 @@ charset-normalizer
 selectolax
 pytz
 httpx
+h2
