@@ -7,7 +7,8 @@ on:
 
 jobs:
   build-and-update:
-    runs-on: ubuntu-latest
+    # Menggunakan Ubuntu 22.04 agar kompatibel dengan dependensi Playwright
+    runs-on: ubuntu-22.04
     timeout-minutes: 20
 
     steps:
@@ -23,13 +24,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # Install browser pendukung Playwright
-          playwright install --with-deps
+          # Install browser Playwright (Chromium & Firefox)
+          playwright install chromium firefox
 
       - name: Run All Update Scripts
         env:
           PYTHONPATH: .
-          # Jika ada Secret di repository, passing di sini
           WEBTV_MLB_BASE_URL: ${{ secrets.WEBTV_MLB_BASE_URL }}
         run: |
           python awaf.py || true
