@@ -1,187 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona Cardinals Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Arizona-Cardinals.svg" group-title="NFL GAME",Arizona Cardinals Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Arizona Cardinals Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Arizona Cardinals Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=UiCy6NdUtuUXPLIuK0s6g0s11h426gR8qRohkeM2BIY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak%2F&expires=1785311513/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak/57.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=QqVD0lApIydkDapkjV4dmCmx6VdBwQeJuHHWgnsvr_M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak%2F&expires=1785339440/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak/57.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Atlanta Falcons Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Atlanta-Falcons.svg" group-title="NFL GAME",Atlanta Falcons Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Atlanta Falcons Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Atlanta Falcons Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=FN1yfM4fjNZzyvpJaUtfBUWnmebdLETDWcXupd8Xh6E&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1785311533/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv/64.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=LgiFZmYEHV5Pr3Hg6izFrsdBjf31NvXjeO19OT22ybg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1785339458/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv/64.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baltimore Ravens Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Baltimore-Ravens.svg" group-title="NFL GAME",Baltimore Ravens Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Baltimore Ravens Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Baltimore Ravens Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=kEDK2nmPkDBcK7FD_Qq4wd_wNU-HWPJqwchiu07XOsM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1785311551/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=dgDeoKyOHSKIqa9jkyFwUJObSDm-i38xdzItt2LF6eA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1785339477/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buffalo Bills Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Buffalo-Bills.svg" group-title="NFL GAME",Buffalo Bills Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Buffalo Bills Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Buffalo Bills Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=GJNBPXuV4_ggLLcGN9GPR2EdLvIVYzrh7pafrhqpr8E&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEhoAMMPw3O6G5MgXef8ULO%2F&expires=1785311572/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEhoAMMPw3O6G5MgXef8ULO/233.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=dKjELJoTfmIonL-BPJi_aW8fVvy_GSXR1uekcVa33vc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEhoAMMPw3O6G5MgXef8ULO%2F&expires=1785339495/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEhoAMMPw3O6G5MgXef8ULO/233.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Carolina-Panthers.svg" group-title="NFL GAME",Carolina Panthers Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Carolina Panthers Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Carolina Panthers Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=hoyU9xeY2jqGWlMcwOrura7RPnogw3csx34_VBP9lOc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD%2F&expires=1785311592/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD/231.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=bwcHDfxuzsa6AbDcaT9obWn97vZSXQUPRdmTqikG_zU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD%2F&expires=1785339514/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD/231.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chicago Bears Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Chicago-Bears.svg" group-title="NFL GAME",Chicago Bears Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chicago Bears Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Chicago Bears Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=rDOGVaTyOb6T-spyOlxAka1x9hNdbJRdeEUGsEkdfvY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFPMvpDqXJhuiARO0LO8B26%2F&expires=1785311612/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFPMvpDqXJhuiARO0LO8B26/51.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=9REHrbseDCsBh9uium4DHVj4AHZdNalPBTMNLiSa9X8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFPMvpDqXJhuiARO0LO8B26%2F&expires=1785339534/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFPMvpDqXJhuiARO0LO8B26/51.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cincinnati Bengals Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Cincinnati-Bengals.svg" group-title="NFL GAME",Cincinnati Bengals Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cincinnati Bengals Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Cincinnati Bengals Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=5cZRXJ-y8d9SVk75ipBXej7aFOzOB6A_ZhMahzymHio&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF1JI8oJfhfsr3J4OxzBxnS%2F&expires=1785311631/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF1JI8oJfhfsr3J4OxzBxnS/52.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=AqtJCYeM5i67dUqxRwR1u91r9PGRXn0Vs5LLT-z639A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF1JI8oJfhfsr3J4OxzBxnS%2F&expires=1785339555/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF1JI8oJfhfsr3J4OxzBxnS/52.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cleveland Browns Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Cleveland-Browns.svg" group-title="NFL GAME",Cleveland Browns Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cleveland Browns Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Cleveland Browns Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=nKc37YMKOaUj4SYjLqdSZkrXNRLuDOdtF0Q4GJtLfpg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy%2F&expires=1785311650/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy/227.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=DGJyQWgQuoCWh-VCoryaP8su1eyHqj3jAmnUsICtAGI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy%2F&expires=1785339584/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy/227.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dallas Cowboys Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Dallas-Cowboys.svg" group-title="NFL GAME",Dallas Cowboys Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dallas Cowboys Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Dallas Cowboys Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=iuz7h6hMW0BggPyybA2wABMbUT1cr_T5sV0yFEU_mWE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ%2F&expires=1785311670/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ/61.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=QJN5wAPU7969ngV-j4tu9CKpYEv37bd2gwU4Rk1k5Ng&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ%2F&expires=1785339602/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFhtfVg4zkFGANf82aAwiwQ/61.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Denver Broncos Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Denver-Broncos.svg" group-title="NFL GAME",Denver Broncos Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Denver Broncos Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Denver Broncos Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=UNcuKO1jhKVylivrbq2eL-H1ZKJaTrGPyDddlzxH0WI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf%2F&expires=1785311689/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf/54.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=Y9M9DIlyDFkNDsZrmXJ6Gc2kXZP55Wm15OCoPC7pst8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf%2F&expires=1785339621/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf/54.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Detroit Lions Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Detroit-Lions.svg" group-title="NFL GAME",Detroit Lions Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Detroit Lions Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Detroit Lions Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=1qC6aWUewSdd_cmPGfSmAGCpL6DmqsmokOTfN04_xMI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv%2F&expires=1785311708/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv/68.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=gIhaU91mzWV7iQfHGYK0XmjHHj0hnSL_DREWMgMfJKs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv%2F&expires=1785339639/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv/68.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Green-Bay-Packers.svg" group-title="NFL GAME",Green Bay Packers Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Green Bay Packers Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Green Bay Packers Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=TEGk87z3AfEY_BFXUSkVdgKt8GLaLGT54g73I17BpKI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU%2F&expires=1785311728/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU/69.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=s6xPYLTDjJi-At2wRvSx1Mu16dNggHu2sCj4-XQSzIQ&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU%2F&expires=1785339658/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU/69.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Houston-Texans.svg" group-title="NFL GAME",Houston Texans Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Houston Texans Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=nkY79VhJdKj0JwQ0U7yHP-FohDIpCk1b-BrzXOxFax0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY%2F&expires=1785311748/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY/77.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=S3X-ut4Xe1lTa9wpJ-HRxDOxyRUVGKF2gNCa3uPfFx4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY%2F&expires=1785339677/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY/77.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Indianapolis-Colts.svg" group-title="NFL GAME",Indianapolis Colts Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Indianapolis Colts Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Indianapolis Colts Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=IzLq3jXFwuVjniIiFnYqNXVUYUO_yddNGWrftFyaWNE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFeh_9ovTu2qoV--rhAa4zW%2F&expires=1785311767/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFeh_9ovTu2qoV--rhAa4zW/60.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=zQDbzr_uCv-77epgiytdlAnHgYV1_PKzvSiBGIdsvwY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFeh_9ovTu2qoV--rhAa4zW%2F&expires=1785339696/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFeh_9ovTu2qoV--rhAa4zW/60.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jacksonville Jaguars Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Jacksonville-Jaguars.svg" group-title="NFL GAME",Jacksonville Jaguars Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Jacksonville Jaguars Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Jacksonville Jaguars Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=UsBwMqTI28EnKlpw5_6T0jeJhZcoNXBnvfY4j0rQNWM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs%2F&expires=1785311787/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs/66.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=vGMEhVF0UMdJ0s4V_AI-fVW_OccKTeMMz9CnW9MLZUA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs%2F&expires=1785339714/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs/66.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Kansas-City-Chiefs.svg" group-title="NFL GAME",Kansas City Chiefs Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Kansas City Chiefs Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=DY4uJIKDN5CtEsKkTAIWFxvAkNKTrm4c_S2MH4id3Jo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGYzREOrwb64i-GZApwqBnh%2F&expires=1785311808/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGYzREOrwb64i-GZApwqBnh/59.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=opX3L2AHcVeXCMrl3Qp-BAcM6C6sQQnxZHECl2HdHdw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGYzREOrwb64i-GZApwqBnh%2F&expires=1785339734/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGYzREOrwb64i-GZApwqBnh/59.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Chargers Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Los-Angeles-Chargers.svg" group-title="NFL GAME",Los Angeles Chargers Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Chargers Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Los Angeles Chargers Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=ztB3FE8TTgANvvWtpnIwWkSYYqV8CUkJLqFl_qAG3x0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY11bb5i9B39X-gdLNRDAB%2F&expires=1785311826/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY11bb5i9B39X-gdLNRDAB/58.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=XJkN9hCQIcB9d4O5ZezdYPyuWWNgPf4ozD70yDO1t2s&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY11bb5i9B39X-gdLNRDAB%2F&expires=1785339754/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY11bb5i9B39X-gdLNRDAB/58.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Los-Angeles-Rams.svg" group-title="NFL GAME",Los Angeles Rams Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Los Angeles Rams Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Los Angeles Rams Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=5Cr5fQQoYKgsffrbf3ru5WbGvHDS-htyOYKp4CvUFps&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE%2F&expires=1785311846/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE/177.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=t8xL9aNVk6RzycmUIpaH5caHRbW9YHQOSd8m3BuqY70&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE%2F&expires=1785339771/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE/177.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Miami-Dolphins.svg" group-title="NFL GAME",Miami Dolphins Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Miami Dolphins Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=1ofGz0cOvm0Z1cKH6dFW3LdFoZXpFgams3RKT7cWv4A&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFZAZ-HDp9MtXGxG4BTANjW%2F&expires=1785311865/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFZAZ-HDp9MtXGxG4BTANjW/62.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=nr4Sea6R1fV0obS0hDdSzHCZkjnudB7Nt1oNSs3sq88&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFZAZ-HDp9MtXGxG4BTANjW%2F&expires=1785339789/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFZAZ-HDp9MtXGxG4BTANjW/62.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Minnesota Vikings Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Minnesota-Vikings.svg" group-title="NFL GAME",Minnesota Vikings Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Minnesota Vikings Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Minnesota Vikings Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=hhrmESxt_ZAx8vkI4IC5vHPPpKcABfWxtP5nSfgVOm4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_%2F&expires=1785311884/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_/79.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=IKUz1Pv2mmyASL1WjFXX9XkT57OYhlw8KjU98xyfpwY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_%2F&expires=1785339808/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_/79.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New England Patriots Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-England-Patriots.svg" group-title="NFL GAME",New England Patriots Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",New Orleans Saints Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=D7mIFA-MyOxBuWQvatGAQvqTSIrUDaRlnMC-RktOpT8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf%2F&expires=1785311899/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf/54.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=1F7PpGCGw8AKq3MbVIbEoc5EQ2rDPq3IZn_ejvP3COc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm%2F&expires=1785339871/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm/224.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-Orleans-Saints.svg" group-title="NFL GAME",New Orleans Saints Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",New York Giants Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=X6uxl3rwgOVrF_rrdXuTuwj0wyKnJNqD28VXZ0YlGiI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm%2F&expires=1785311914/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm/224.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=nUYrEJwPcMploaQO3BoRuD_UabcF0lLcOmGsAxYF5LY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHL8l4L_5ZbXxs8qqgrRnWm%2F&expires=1785339889/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHL8l4L_5ZbXxs8qqgrRnWm/65.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-York-Giants.svg" group-title="NFL GAME",New York Giants Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",New York Jets Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=BYTZ9Bd02kX9uIdyK5wjjZk4oAzwpe6MbP08K_5Qr_c&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHL8l4L_5ZbXxs8qqgrRnWm%2F&expires=1785311934/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHL8l4L_5ZbXxs8qqgrRnWm/65.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=7a6LDs0Oq2FSa6SiaF9U6sING6X9KQxIgFqFv_vDtbk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK%2F&expires=1785339908/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK/229.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-New-York-Jets.svg" group-title="NFL GAME",New York Jets Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Las Vegas Raiders Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Las Vegas Raiders Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=VXY2SMQLvYe1NxEkDt6DH4cuB5n5r7eSvWBbdCCTMas&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK%2F&expires=1785311953/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK/229.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=bHJnUDK2Q16EjsHaG95SezbxR09BtKvcFYf2IzFYIgc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum%2F&expires=1785339928/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum/72.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Las Vegas Raiders Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Las-Vegas-Raiders.svg" group-title="NFL GAME",Las Vegas Raiders Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Philadelphia Eagles Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=8u3i5GjmsI25mZNSDu-1iJEdAAha9m0Y3yzWsyR2KeM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum%2F&expires=1785311974/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum/72.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=JSQodPSxrI1jfb4ptzgsfm__EovWqUsPnOFKyzU9T_M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuRxSIvCE3gUaR1lZPQJwR%2F&expires=1785339947/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuRxSIvCE3gUaR1lZPQJwR/63.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Philadelphia Eagles Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Philadelphia-Eagles.svg" group-title="NFL GAME",Philadelphia Eagles Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Pittsburgh Steelers Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=dpAPslNaNsiSmf2XxZWHGutnWUjz9gznFeddEQrqxQM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuRxSIvCE3gUaR1lZPQJwR%2F&expires=1785311992/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuRxSIvCE3gUaR1lZPQJwR/63.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=8Gd5hhOhipsH8P8PiyZ9i8a-Wskw_VwHpRg6awcL0sU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxknCPdOznagIpODV-mHCo%2F&expires=1785339965/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxknCPdOznagIpODV-mHCo/230.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Pittsburgh-Steelers.svg" group-title="NFL GAME",Pittsburgh Steelers Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="San Francisco 49ers Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",San Francisco 49ers Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=fW28qHWKioY2lzu-Mquvla4_tSM7Y4JpOBPwKCQTzHo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxknCPdOznagIpODV-mHCo%2F&expires=1785312012/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHxknCPdOznagIpODV-mHCo/230.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=IdPDc9w_RAg7PF46dowIQH2dtwWSMt68hGM1hp4nAN4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7%2F&expires=1785339985/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7/176.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="San Francisco 49ers Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-San-Francisco-49ers.svg" group-title="NFL GAME",San Francisco 49ers Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Tampa Bay Buccaneers Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=lHwZ3fvAEM8vFo9JJlaWG00tV3ADYIYHkqqTWw0W06I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7%2F&expires=1785312033/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7/176.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=9IeTWfT-6-v-t_Z1_EwXGKo_ebyQcr4UdxtE2Yma3qc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGlOagrCfxhVZL0huekXE8r%2F&expires=1785340049/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGlOagrCfxhVZL0huekXE8r/56.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tampa Bay Buccaneers Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Tampa-Bay-Buccaneers.svg" group-title="NFL GAME",Tampa Bay Buccaneers Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tennessee Titans Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Tennessee Titans Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=3RGIGnUW9nmG7ucXCK2vu2V-rPq8qkYxHJEESdPGapo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGlOagrCfxhVZL0huekXE8r%2F&expires=1785312097/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGlOagrCfxhVZL0huekXE8r/56.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=4GpbMfos3bF3-ZqgyzV91NDF6KolrTvUZkBPL905AVw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk%2F&expires=1785340069/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk/78.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tennessee Titans Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Tennessee-Titans.svg" group-title="NFL GAME",Tennessee Titans Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Redskins Live Stream" tvg-logo="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" group-title="NFL GAME",Washington Redskins Live Stream
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=D2n1XQtmJizLVNopMqUmt_hW5vgAFbk240Ssp5UQ9k0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk%2F&expires=1785312117/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk/78.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Washington Redskins Live Stream" tvg-logo="https://nflwebcast.com/wp-content/uploads/2020/10/Logo-Washington-Football-Team.svg" group-title="NFL GAME",Washington Redskins Live Stream
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://webcast-origin.b-cdn.net/bcdn_token=BuimrYOtNZDTZ9AIpQhL2WisMXxJNjGt_jppab48yIg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u%2F&expires=1785312138/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u/80.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=ytxpGvQYUCn3aElvJtBGiTM7OjZilZFtAHH2h4v-T9M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u%2F&expires=1785340087/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u/80.m3u8
 
